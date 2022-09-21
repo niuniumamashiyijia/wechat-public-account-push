@@ -21,7 +21,8 @@ export const config = {
   SWITCH: {
     /** 每日天气 */
     weather: true,
-useTemp
+useTemplateId:"	h5WATJA5nrV_1EpKLsfJFX9qX7Uh96DPfg6_NsfHIZ4"
+    id:"okRBd5v0X49HjoFwvzehE3J4s9p0"
     /** 节假日 */
     // 下一休息日综合提醒
     holidaytts: true,
