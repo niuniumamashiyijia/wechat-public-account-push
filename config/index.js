@@ -21,7 +21,7 @@ export const config = {
   SWITCH: {
     /** 每日天气 */
     weather: true,
-
+useTemp
     /** 节假日 */
     // 下一休息日综合提醒
     holidaytts: true,
